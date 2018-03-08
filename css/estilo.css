@@ -1,0 +1,8 @@
+.fondoencabezado{
+    width: 100%;
+}
+.logoencabezado{
+    position: absolute;
+    top: 2%;
+    z-index: 100;
+}
