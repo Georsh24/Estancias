@@ -6,3 +6,9 @@
     top: 2%;
     z-index: 100;
 }
+.textoresaltado1{
+    color: red;
+    font-family: ''
+    src: url(sansation_monofur.woff);
+    font-weight: bold;
+}
